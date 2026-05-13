@@ -2,7 +2,7 @@
 name = "call-ai-agent"
 version = "1.0.0"
 description = "AI Call Assistant"
-authors = ["raman"]
+authors = ["Raman <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
